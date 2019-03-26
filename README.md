@@ -1,3 +1,3 @@
-<# ReadME>
+# README
 
-This is a ReadME file
+This is a read me file
