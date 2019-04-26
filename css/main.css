@@ -1,0 +1,12 @@
+.nav-spacing {
+    margin: 0 0 0 10px;
+}
+.nav-menu-align {
+    text-align: right;
+}
+.nav-styling {
+    text-decoration: none; color: maroon;
+}
+.remove-styling {
+    text-decoration: none;
+}
